@@ -1,11 +1,11 @@
 # ML-Reading-List
 This is a reading list to record daily study and reading about ML and related data analysis & tools.
 
-* [Machine Learning Fundmentals](#ml_basic)
+* [Machine Learning Fundamentals](#ml_basic)
+* [Deep Learning Fundamentals](#deep_learning)
 * [Nature Language Processing](#nlp)
 * [Speech Recognition](#speech_recognition)
 * [Computer Vision](#cv)
-* [Deep Learning](#deep_learning)
 * [Software & Tools](#software_tool)
 
 <h2 id="ml_basic">Machine Learning Fundamentals</h2>
@@ -15,7 +15,13 @@ Please make sure that you understand the fundamental concepts and knowledge befo
 * Zhou Zhihua. 2016. [Machine Learning (Chinese Edition)](https://www.amazon.com/Machine-Learning-Chinese-Zhou-Zhihua/dp/7302423288/). Tsinghua University Press.
 * Christopher M. Bishop. 2006. [Pattern Recognition and Machine Learning](book/Bishop%20-%20Pattern%20Recognition%20And%20Machine%20Learning%20-%20Springer%20%202006.pdf). Springer.
 
+<h2 id="deep_learning">Deep Learning Fundamentals</h2>
+
+* Ian Goodfellow, Yoshua Bengio, Aaron Courville. 2016. [Deep Learning](https://www.deeplearningbook.org/). MIT Press.
+
 <h2 id="NLP">Nature Language Processing</h2>
+
+
 
 <h2 id="speech_recognition">Speech Recognition</h2>
 
@@ -34,6 +40,6 @@ Please make sure that you understand the fundamental concepts and knowledge befo
 
 <h2 id="cv">Computer Vision</h2>
 
-<h2 id="deep_learning">Deep Learning</h2>
+
 
 <h2 id="software_tool">Software & Tools</h2>
