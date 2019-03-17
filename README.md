@@ -43,3 +43,5 @@ Please make sure that you understand the fundamental concepts and knowledge befo
 
 
 <h2 id="software_tool">Software & Tools</h2>
+
+* Martin Kleppmann. 2017. [Designing Data-Intensive Applications](book/DDIA.pdf). O'Reilly.
