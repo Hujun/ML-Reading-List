@@ -15,6 +15,7 @@ Please make sure that you understand the fundamental concepts and knowledge befo
 * Zhou Zhihua. 2016. [Machine Learning (Chinese Edition)](https://www.amazon.com/Machine-Learning-Chinese-Zhou-Zhihua/dp/7302423288/). Tsinghua University Press.
 * Christopher M. Bishop. 2006. [Pattern Recognition and Machine Learning](book/Bishop%20-%20Pattern%20Recognition%20And%20Machine%20Learning%20-%20Springer%20%202006.pdf). Springer.
 * 李航. 2012. [统计学习方法](book/统计学习方法.pdf). Tsinghua University Press.
+* Pedro Domingos. 2012. [A Few Useful Things to Know about Machine Learning](paper/cacm12.pdf). University of Washington.
 
 <h2 id="deep_learning">Deep Learning Fundamentals</h2>
 
