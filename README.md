@@ -21,6 +21,7 @@ Please make sure that you understand the fundamental concepts and knowledge befo
 <h2 id="deep_learning">Deep Learning Fundamentals</h2>
 
 * Ian Goodfellow, Yoshua Bengio, Aaron Courville. 2016. [Deep Learning](https://www.deeplearningbook.org/). MIT Press.
+* Jurgen Schmidhuber. 2014. [Deep Learning in Neural Networks: An Overview](paper/1404.7828.pdf). University of Lugano & SUPSI.
 
 <h2 id="NLP">Nature Language Processing</h2>
 
