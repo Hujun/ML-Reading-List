@@ -41,6 +41,7 @@ Please make sure that you understand the fundamental concepts and knowledge befo
 * Naoyuki Kanda, Xugang Lu, Hisashi Kawai. 2016. [Maximum A Posteriori based Decoding for CTC Acoustic Models](paper/interspeech_2016.pdf). INTERSPEECH 2016.
 * George E. Dahl, Dong Yu, Li Deng, and Alex Acero. 2012. [Context-Dependent Pre-Trained Deep Neural Networks for Large-Vocabulary Speech Recognition](paper/dbn4lvcsr-transaslp.pdf). IEEE Transactions on Audio, Speech and Language Processing, Vol 20, 2012.
 * Alex Graves , Navdeep Jaitly. 2014. [Towards End-to-End Speech Recognition with Recurrent Neural Networks](paper/graves14.pdf). Google Deepmind.
+* Aaron van den Oord, Sander Dieleman, Heiga Zen, Karen Simonyan, Oriol Vinyals, Alex Graves, Nal Kalchbrenner, Andrew Senior, Koray Kavukcuoglu. 2016. [WaveNet: A Generative Model for Raw Audio](paper/1609.03499.pdf). Google.
 
 <h2 id="cv">Computer Vision</h2>
 
