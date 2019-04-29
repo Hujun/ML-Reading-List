@@ -25,6 +25,7 @@ Please make sure that you understand the fundamental concepts and knowledge befo
 
 <h2 id="NLP">Nature Language Processing</h2>
 
+* Daniel Jurafsky, James H. Martin. 2018 (3rd edition). [Speech and Language Processing](book/speech_and_language_processing.pdf). Standford University.
 * Ashish Vaswani, Noam Shazeer, Niki Parmar, Jakob Uszkoreit, Llion Jones, Aidan N. Gomez, Lukasz Kaiser, and Illia Polosukhin. 2017. [Attention is All You Need](paper/7181-attention-is-all-you-need.pdf). NIPS 2017.
 
 <h2 id="speech_recognition">Speech Recognition</h2>
