@@ -51,4 +51,4 @@ Please make sure that you understand the fundamental concepts and knowledge befo
 <h2 id="software_tool">Software & Tools</h2>
 
 * Aurelien Geron. 2017. [Hands-on Machine Learning with Scikit-Learn, Keras, and TensorFlow](https://github.com/ageron/handson-ml2). O'Reilly.
-* Martin Kleppmann. 2017. [Designing Data-Intensive Applications](book/DDIA.pdf). O'Reilly.
+* Martin Kleppmann. 2017. [Designing Data-Intensive Applications](book/DDIA.pdf). O'Reilly. [Review](https://github.com/Hujun/blog/issues/6)
