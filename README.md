@@ -43,6 +43,7 @@ Please make sure that you understand the fundamental concepts and knowledge befo
 * George E. Dahl, Dong Yu, Li Deng, and Alex Acero. 2012. [Context-Dependent Pre-Trained Deep Neural Networks for Large-Vocabulary Speech Recognition](paper/dbn4lvcsr-transaslp.pdf). IEEE Transactions on Audio, Speech and Language Processing, Vol 20, 2012.
 * Alex Graves , Navdeep Jaitly. 2014. [Towards End-to-End Speech Recognition with Recurrent Neural Networks](paper/graves14.pdf). Google Deepmind.
 * Aaron van den Oord, Sander Dieleman, Heiga Zen, Karen Simonyan, Oriol Vinyals, Alex Graves, Nal Kalchbrenner, Andrew Senior, Koray Kavukcuoglu. 2016. [WaveNet: A Generative Model for Raw Audio](paper/1609.03499.pdf). Google.
+* Geoffrey Hinton, Li Deng, Dong Yu, George E. Dahl, Abdel-rahman Mohamed, Navdeep Jaitly, Andrew Senior, Vincent Vanhoucke, Patrick Nguyen, Tara N. Sainath, and Brian Kingsbury. 2012. [Deep Neural Networks for Acoustic Modeling in Speech Recognition](paper/HintonDengYuEtAl-SPM2012.pdf). IEEE Singal Processing Magazine.
 
 <h2 id="cv">Computer Vision</h2>
 
